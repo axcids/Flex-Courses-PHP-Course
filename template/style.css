@@ -1,0 +1,11 @@
+.connection{
+
+}
+.sql_connected {
+  font-weight: bold;
+  color:#22CD25;
+}
+.sql_not_connected{
+  font-weight: bold;
+  color:#FE0000;
+}
